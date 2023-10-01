@@ -6,7 +6,8 @@ Hacktoberfest is a month-long celebration from October 1st - 31st to get people 
 
 ## How to contribute to this project?
 
-View the [CONTRIBUTING.md](https://github.com/front-runner-sd/Frontend-Flow/blob/main/CONTRIBUTING.md) file to get step by step instruction.
+View the [CONTRIBUTING.md](https://github.com/front-runner-sd/Frontend-Flow/blob/main/CONTRIBUTING.md) file to get step by step instruction. In order to make a hassle-free environment, I request all contributers to follow the [Code of Conduct](https://github.com/yashikabhargava/WebX/blob/main/CODE_OF_CONDUCT.md).
+🎇 Happy Contributing 🎇
 
 ## Getting started
 * star this repository (Click the star button in the top right of this page, beside the fork button)
@@ -44,7 +45,7 @@ git push origin branch-name
 
 # Frontend Flow ✨
 It is a website that helps developers by providing free frontend resources to build website/webapp.
-
+View Live : frontend-flow.netlify.app
 
 ## Why Frontend Flow 🤔
 
