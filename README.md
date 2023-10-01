@@ -23,6 +23,13 @@ git clone https://github.com/your-username/Frontend-Flow.git
 ```markdown
 git checkout -b branch-name
 ```
+
+* Download Node modules
+
+```markdown
+npm i
+```
+
 * Make your changes __(The task is described below)__
 * Commit and push
 
