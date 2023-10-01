@@ -36,7 +36,7 @@ git push origin branch-name
 ## Your task
 * Please raise an issue before opening a PR.
 * Don't start working on an issue until it has been assigned to you.
-* You can work on the issues given in issues section but make sure to ask me so that I can assign that to you. ( You have 24hrs to make the changes and raise a pull request otherwise the issue will be assigned to another participant ).
+* You can work on the issues given in [issues section](https://github.com/front-runner-sd/Frontend-Flow/issues) but make sure to ask me so that I can assign that to you. ( You have 24hrs to make the changes and raise a pull request otherwise the issue will be assigned to another participant ).
 
 ## Note
 * Create a branch before adding your changes.
