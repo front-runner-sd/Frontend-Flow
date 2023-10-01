@@ -1,0 +1,9 @@
+.AppContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eaece2;
+}
+.App{
+    min-width: 1280px;
+}

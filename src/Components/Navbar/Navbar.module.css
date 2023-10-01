@@ -1,0 +1,31 @@
+nav{
+    padding-top: 1rem;
+    padding-left: 1rem;
+    background-color: #eaece2;
+    display:flex ;
+    justify-content: space-between;
+}
+.Logo{
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    width: 150px;
+}
+.NavItems{
+    padding-top: .5rem;
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    padding-left: 0rem;
+    margin-left: -3rem;
+}
+.NavItems  a{
+    cursor: pointer;
+}
+.ContributeButton{
+    margin-top: 1rem;
+    margin-right: 3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
