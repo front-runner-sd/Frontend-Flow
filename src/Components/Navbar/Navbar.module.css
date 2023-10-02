@@ -28,4 +28,22 @@ nav{
     padding-right: 1rem;
     padding-top: .5rem;
     padding-bottom: .5rem;
+    border-radius: 3px;
+    background-color: transparent;
+    border: solid black 1px;
+}
+
+.shadow {
+    position: relative;
+    background-color: rgba(67, 255, 67, 0.5);
+    height: 2em;
+    width: 6em;
+    top: -1.7em;
+    left: 6px;
+    border-radius: 3px
+}
+
+.shadow:hover {
+    left: 0px;
+    top: -2.05em
 }

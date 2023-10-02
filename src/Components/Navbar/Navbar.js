@@ -13,8 +13,9 @@ function Navbar() {
                 <li><a>About</a></li>
             </ul>
         </div>
-        <div >
+        <div>
             <button className={styles.ContributeButton}>Contribute</button>
+            <div className={styles.shadow}/>
         </div>
     </nav>
   );
