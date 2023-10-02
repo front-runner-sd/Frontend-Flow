@@ -20,9 +20,9 @@
   .HeroRight {
     position: relative;
     height: 600px;
-    width: 700px;
+    width: 510px;
     top: 55px;
-    margin-right: 150px;
+    margin-right: -92px;
     margin-left: 270px;
     background-color: rgb(189, 240, 124);
     border-radius: 15px;
