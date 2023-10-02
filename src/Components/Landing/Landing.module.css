@@ -1,4 +1,48 @@
 .LandingContainer{
     background-color: #eaece2;
     height: 100vh;
+    margin-top: 100px;
   }
+  
+  .Hero {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .HeroLeft {
+    display: inline;
+    margin-left: 50px;
+    border: 2px solid black;
+    width: 50%;
+    height: 700px;
+  }
+  
+  .HeroRight {
+    position: relative;
+    height: 600px;
+    width: 700px;
+    top: 55px;
+    margin-right: 150px;
+    margin-left: 270px;
+    background-color: rgb(189, 240, 124);
+    border-radius: 15px;
+  }
+  
+  .HeroRight img {
+    width: 300px;
+    height: 400px;
+    border-radius: 15px;
+  }
+  
+  .HeroRight .img1 {
+    position: relative;
+    top: -230px;
+    left: 130px;
+  }
+  
+  .HeroRight .img2 {
+    position: relative;
+    top: 50px;
+    left: -40px;
+  }
+  
