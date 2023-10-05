@@ -1,14 +1,16 @@
 import styles from './Landing.module.css';
-
+import image1 from './image1.jpg'; 
+import image2 from './img_2.jpg'; 
 function Landing() {
   return (
     <div className={styles.LandingContainer}>
             <div className={styles.Hero}>
-                <div>
-                  {/* It is div 1. Do not do anything here */}
+                <div className={styles.HeroLeft}>
+                  
                 </div>
                 <div className={styles.HeroRight}>
-                    {/* Do here and change the css class accordingly */}
+                <img className={styles.img2} src={image2} alt="image2" />
+          <img className={styles.img1} src={image1} alt="image1" />
                 </div>
             </div>
     </div>
