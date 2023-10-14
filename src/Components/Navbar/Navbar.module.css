@@ -22,6 +22,9 @@ nav{
 }
 .NavItems  a{
     cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
 }
 
 .button {
@@ -35,6 +38,7 @@ nav{
     backdrop-filter: blur(5px);
     color: #000000;
     z-index: 1;
+    cursor: pointer;
   }
   
   .button::after,
