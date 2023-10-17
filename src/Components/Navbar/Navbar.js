@@ -14,7 +14,7 @@ function Navbar() {
                 </ul>
             </div>
             <div>
-                    <button className={styles.button}>Contribute</button>
+                <button className={styles.button}>Contribute</button>
             </div>
         </nav >
     );

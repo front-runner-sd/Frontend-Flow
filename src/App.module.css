@@ -1,8 +1,12 @@
+:root {
+    --main-bg-color: #fff;
+}
+
 .AppContainer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #eaece2;
+    background-color: var(--main-bg-color);
 }
 .App{
     min-width: 1280px;
